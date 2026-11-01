@@ -324,7 +324,7 @@ export default function HomePage() {
 
             <div className="space-y-1.5">
               <h4 className="font-bold text-stone-100 uppercase tracking-wider mb-2">Liên hệ Dự án</h4>
-              <p>📧 Email: ntienphat2@gmail.com</p>
+              <p>📧 Email: minhtanbear@gmail.com</p>
               <p>📞 Hotline: 0931.561.388</p>
               <p className="text-amber-400 font-semibold pt-1">
                 © 2026 Viet Heritage Tech. All rights reserved.
